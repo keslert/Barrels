@@ -1,0 +1,13 @@
+cannons=[
+[225,75,225,75,3,false,false,0,320,35,2,false,0,20],
+[150,175,150,175,3,false,false,0,230,230,2,false,0,20],
+[50,250,50,250,0,false,false,0,80,80,5,true,0,20]
+];
+enemys=[
+];
+items=[
+];
+walls=[
+];
+boundary:
+[300,325]
